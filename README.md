@@ -1,4 +1,3 @@
-```markdown
 <!-- Banner Atas -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00FFFF&height=200&section=header&text=👨‍💻%20Welcome%20to%20My%20GitHub%20Lab&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
@@ -9,8 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+USERNAME;💀+Hacker+|+🧑‍💻+Developer+|+🔐+Security+Enthusiast;🚀+Python+%7C+C%23+%7C+Lua+%7C+Kotlin;🔥+Hack+the+Planet!">
   </a>
 </h1>
-
----
 
 ## 🧩 About Me
 ```diff
