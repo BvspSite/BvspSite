@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+USERNAME;💀+Hacker+|+🧑‍💻+Developer+|+🔐+Security+Enthusiast;🚀+Python+%7C+C%23+%7C+Lua+%7C+Kotlin;🔥+Hack+the+Planet!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+BvspSite;💀+HaxCode+|+🧑‍💻+Developer+|+🔐+Security+Enthusiast;🚀+Python+%7C+C%23+%7C+Lua+%7C+Kotlin;🔥+Hax+Code+0000!">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 + Loves building & breaking systems 🔥
 + Multilingual Dev: Python, C#, Lua, Kotlin ⚡
 + Exploring Cybersecurity, Automation, and AI 🤖
-+ Motto: "Code is poetry, Hack the planet 🌍"
++ Motto: "Code is poetry, Hack 🌍"
 ```
 
 ## 🛠️ Tech Stack & Tools
