@@ -1,7 +1,7 @@
 #  DEV </>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:00FFFF,50:FF006E,75:8A2BE2,100:00FF41&height=200&section=header&text=BvspSite%20</>&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=HAX%20404%20&descAlignY=65&descAlign=center"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:00FFFF,50:FF006E,75:8A2BE2,100:00FF41&height=200&section=header&text=BvspSite%20HAX&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=HAX%20404%20&descAlignY=65&descAlign=center"/>
 </div>
 
 <div align="center">
