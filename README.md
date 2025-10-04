@@ -1,4 +1,4 @@
-# 🚀 Welcome to BvspSite's Digital Universe
+#  DEV </>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:00FFFF,50:FF006E,75:8A2BE2,100:00FF41&height=200&section=header&text=BvspSite%20Lab&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Where%20Security%20Meets%20Innovation&descAlignY=65&descAlign=center"/>
